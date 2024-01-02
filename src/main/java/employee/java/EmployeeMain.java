@@ -62,7 +62,7 @@ class Designer extends Employee {
 public class EmployeeMain {
 
     public static void main(String[] args) {
-        Manager manajer = new Manager("zalfa");
+        Manager manajer = new Manager("elsa");
         Developer pengembang = new Developer("Jane Doe");
         Designer desainer = new Designer("John Smith");
 
